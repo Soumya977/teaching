@@ -1,5 +1,4 @@
-# teaching
-material for my students
+# teaching material for my students
 
 ## TOOLKIT FOR EMBEDDED SYSTEMS
 ==============================================
